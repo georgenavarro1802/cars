@@ -1,4 +1,4 @@
-# cars
+# Cars Python Assessment  
 Python Developer Evaluation Answer consists of a Command Python Demo Project using SQLite and Python libraries for testing like nose and mock
 
 # Python Developer Evaluation
@@ -51,3 +51,6 @@ For bonus points:
 * Write unit tests, ideally before the code itself.
 * Model the data using objects, and rewrite the database related methods
   using classes / OOP instead.
+
+## All goals and bonus points items have been met and you can see the implentation in source code. 
+## Also, i created another command argument parser (-ly) that is pointing to a function that performs a filter by year, and show a car's list by year (filtering search)
