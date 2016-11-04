@@ -53,4 +53,4 @@ For bonus points:
   using classes / OOP instead.
 
 ## All goals and bonus points items have been met and you can see the implentation in source code. 
-## Also, i created another command argument parser (-ly) that is pointing to a function that performs a filter by year, and show a car's list by year (filtering search)
+## Also, i created another command argument parser (-ly) that is pointing to a function that performs a filter by year, and show a car's list by year (filtered search)
